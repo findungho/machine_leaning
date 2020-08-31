@@ -19,3 +19,6 @@ Therefore, common words like "the" and "for," which appear in many documents, wi
 - This cript uses 'TextBlob' library for processing textual data.
 
 ## How to use:
+1. Clone the repo at "https://github.com/findungho/machine_leaning.git"
+2. Navigate to folder "tfidf"
+3. Run: pipenv run python main.py
