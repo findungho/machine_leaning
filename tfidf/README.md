@@ -1,6 +1,6 @@
-# Author: Dung Ho
-# Email: dung.ho@edu.turkuamk.fi
-# Phone number: +358 449865555
+## Author: Dung Ho
+## Email: dung.ho@edu.turkuamk.fi
+## Phone number: +358 449865555
 
 
 ## Overview
