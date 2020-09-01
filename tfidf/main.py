@@ -89,5 +89,5 @@ if __name__ == "__main__":
         sorted_words = sorted(
             frequencies.items(), key=lambda x: x[1], reverse=True
         )
-        for word, score in sorted_words[:3]:
-            print("\tWord: {}, TF-IDF: {}".format(word, round(score, 5)))
+        for word, freq in sorted_words[:3]:
+            print("\tWord: {}, TF-IDF: {}".format(word, round(freq, 5)))
